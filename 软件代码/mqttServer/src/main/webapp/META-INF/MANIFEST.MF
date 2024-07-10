@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: untitled Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ts1331
+Implementation-Vendor-Id: org.example
+Created-By: Apache Maven 3.9.6
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://maven.apache.org
+Implementation-Vendor: Pivotal Software, Inc.
+
